@@ -17,8 +17,8 @@ El proyecto está organizado por módulos temáticos para facilitar la lectura y
 | Carpeta | Descripción | Estado |
 | :--- | :--- | :---: |
 | **`📂 fundamentos/`** | Conceptos básicos: Variables, Tipos de datos, Lógica Booleana. | ✅ Completado |
-| **`📂 operadores/`** | Aritmética, Comparación y Lógica. | 🚧 En Progreso |
-| **`📂 control/`** | Condicionales (If/Else) y Ciclos. | ⏳ Pendiente |
+| **`📂 operadores/`** | Aritmética, Comparación y Lógica. | ✅ Completado |
+| **`📂 control/`** | Condicionales (If/Else) y Ciclos. | 🚧 En Progreso |
 
 ---
 
