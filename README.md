@@ -27,4 +27,4 @@ Este repositorio sigue la ruta de **Ingeniería de Datos de Platzi**.
 Cada script contiene ejemplos prácticos y comentarios explicativos.
 
 ---
-_Hecho por Fredy_ 🚀
+_Hecho por LeGeNDev_ 🚀
