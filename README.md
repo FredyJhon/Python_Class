@@ -42,7 +42,7 @@ python -m venv env
 ```
 ---
 
-### 3. Acivar tu entorno
+### 3. Activar tu entorno
 
 Ya una vez creado tu entorno virtual, tendras que activarlo, en la terminal debes de colocar la siguiente linea de codigo con el fin de activar tu entorno.
 ```bash
