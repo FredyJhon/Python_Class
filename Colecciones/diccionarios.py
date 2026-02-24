@@ -1,7 +1,4 @@
 #Esto es un ejemplo de un diccionario en Python.
-from encodings import johab
-
-
 auto = { 
     "marca": "Toyota",
     "modelo": "TXL",
@@ -79,4 +76,5 @@ familia = {
     "edad": 14
    } 
 }
-print(familia["hijo1"]["nombre"], familia["hijo1"]["edad"]) #Accede al valor del diccionario interno.
+#Accede al valor del diccionario interno.
+print(familia["hijo1"]["nombre"], familia["hijo1"]["edad"]) 
