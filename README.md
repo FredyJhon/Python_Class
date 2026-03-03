@@ -20,7 +20,10 @@ El proyecto está organizado por módulos temáticos para facilitar la lectura y
 | **`📂 operadores/`** | Aritmética, Comparación y Lógica. | ✅ Completado |
 | **`📂 control/`** | Condicionales (If/Else) y Ciclos. | ✅ Completado |
 | **`📂 colecciones/`** | Colecciones (Listas,Tuplas ) y Diccionarios. | ✅ Completado|
-| **`📂 Ejercicios/`** | Ejercicios (operadores matematicos) y Ciclos. | 🚧 En Progreso |
+| **`📂 Excepciones/`** | Excepciones (Try,Except) y Finally. | ✅ Completado|
+| **`📂 Ejercicios/`** | Ejercicios (operadores matematicos) y Ciclos. | ✅ Completado |
+| **`📂 Ejercicio cierre de curso/`** | Ejercicio final, maquina de cafe. | ✅ Completado |
+
 
 ---
 ## 🛠️ Configuración del entorno 
