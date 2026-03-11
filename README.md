@@ -34,8 +34,10 @@ sigue estos pasos:
 ### 1. Clonar el Repositorio 📥
 Abre tu terminal y descarga el proyecto con el siguiente comando y te da acceso a la carpeta de Python_Class para continues con la ejecucción de los siguientes pasos:
 ```bash
-git clone [https://github.com/FredyJhon/Python_Class.git](https://github.com/FredyJhon/Python_Class.git) && cd Python_Class
+git clone https://github.com/FredyJhon/Python_Class.git
 ```
+Nota: Una vez el repositorio este clonado en tu computadora, abre tu proyecto clonado en Visual Studio Code y en la parte superior deberas de abrir una terminal para correr
+las siguientes lineas de codigo para activar tu entorno.
 
 ### 2. Crear el entorno virtual 📦
 Ingresa a una terminal dentro de tu entorno de desarrollo una vez estes en la raiz del proyecto tendras que ejecutar la siguientes lineas de codigo.
@@ -53,12 +55,15 @@ Ya una vez creado tu entorno virtual, tendras que activarlo, en la terminal debe
 ```
 Nota: Sabras que esta activo porque veras al inicio del prefijo de tu terminal el (env)
 
+---
+
 ### 4. Instalar dependencias
 
 Ya una vez que tengas activo tu entorno virtual (env) queda por ultimo instalar las dependencias cargadas del archivo requirements.txt que esta en el repositorio con la siguiente linea de codigo.
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## 📝 Notas de Aprendizaje
 
