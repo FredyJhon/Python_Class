@@ -4,9 +4,9 @@
 def saludar(nombre, nacionalidad="Colombia"): #Argumento se le llama a lo que va dentro de los corchetes.
     print("Hola",nombre,"de", nacionalidad)
 
-# saludar("Pedro") #Se llama parametros a los valores que le pasamos a la funncion.
-# saludar("John", "Argentina")
-# saludar("Sofia")
+saludar("Pedro") #Se llama parametros a los valores que le pasamos a la funncion.
+saludar("John", "Argentina")
+saludar("Sofia")
 
 def sumar(a,b):
     return a + b #La palabra reservada return se utiliza para devolver un valor desde la funcion.

@@ -4,7 +4,7 @@ print(x)
 X = "Esto es otra variable"
 print(X)
 
-mivariable = ("Esta es una avriable")
+mivariable = ("Esta es una variable")
 mi_variable = "Esta es variable con guion"
 _mi_variable =("Esta variable comienza con un guion bajo")
 mi_Variable = ("Otra variable")
